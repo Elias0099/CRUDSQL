@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nombretext" type="id" />
+    <item name="textView3" type="id" />
+    <item name="textView2" type="id" />
+    <item name="apellidostext" type="id" />
+    <item name="correotext" type="id" />
+    <item name="textView" type="id" />
+    <item name="buscartext" type="id" />
+    <item name="buscarButton" type="id" />
+    <item name="textView9" type="id" />
+    <item name="actualizarButton" type="id" />
+    <item name="button3" type="id" />
+    <item name="eliminarButton" type="id" />
+    <item name="button" type="id" />
+    <item name="carrera" type="id" />
+    <item name="textView4" type="id" />
+    <item name="textView5" type="id" />
+</resources>
